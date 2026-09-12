@@ -141,11 +141,11 @@ tmdbsimple            # Cliente Python simples para consumir a API do The Movie 
 - ### https://console.cloud.google.com
 
 > <div align="center">
->     <img width="50%" src="assets/image.png">
->     <img width="50%" src="assets/image-1.png">
->     <img width="50%" src="assets/image-2.png">
->     <img width="50%" src="assets/image-3.png">
->     <img width="50%" src="assets/image-4.png">
+>     <img width="75%" src="assets/image.png">
+>     <img width="75%" src="assets/image-1.png">
+>     <img width="75%" src="assets/image-2.png">
+>     <img width="75%" src="assets/image-3.png">
+>     <img width="75%" src="assets/image-4.png">
 > </div>
 
 ### Criar a Service Account
@@ -159,16 +159,16 @@ Cria uma conta de serviço para autenticar o acesso ao BigQuery.
 
 > <div align="center">
 >     <img width="20%" src="assets/image-5.png"> <br>
->     <img width="50%" src="assets/image-6.png">
->     <img width="50%" src="assets/image-7.png">
->     <img width="50%" src="assets/image-8.png">
+>     <img width="75%" src="assets/image-6.png">
+>     <img width="75%" src="assets/image-7.png">
+>     <img width="75%" src="assets/image-8.png">
 > </div>
 
 #### Baixar chave:
 > <div align="center">
->     <img width="50%" src="assets/image-9.png">
->     <img width="50%" src="assets/image-10.png">
->     <img width="50%" src="assets/image-11.png"> <br>
+>     <img width="75%" src="assets/image-9.png">
+>     <img width="75%" src="assets/image-10.png">
+>     <img width="75%" src="assets/image-11.png"> <br>
 >     <img width="20%" src="assets/image-12.png">
 > </div>
 
